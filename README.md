@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning SQL, Power BI, Tableau, Excel, and Data & Business Analytics
 - 💞️ I’m looking to collaborate on those data fieds.
 - 📫 reach me on my linkedin : [link](https://www.linkedin.com/in/muhammad-fakhrurradhi)
-- my resume can be downloaded here : [resume.pdf](https://github.com/MuhammadFakhrurradhi/MuhammadFakhrurradhi/files/12617112/radhi.pdf)
-- Tableau [link](https://public.tableau.com/app/profile/muhammad.fakhrurradhi)
+- my resume can be downloaded here : [resume.pdf](https://github.com/MuhammadFakhrurradhi/MuhammadFakhrurradhi/files/12719880/Fakhrurradhi.Muhammad.pdf)
+- Tableau Public [link](https://public.tableau.com/app/profile/muhammad.fakhrurradhi)
+- Project's Walk-through [Notion](https://muhammadfakhrurradhi.notion.site/Posted-Projects-adeacad67f4b45fd87da78f2275d03b8?pvs=4)
 
 
 <!---
