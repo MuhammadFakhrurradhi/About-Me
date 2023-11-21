@@ -6,7 +6,7 @@
 - my cv can be downloaded here : [CV.pdf](https://github.com/MuhammadFakhrurradhi/MuhammadFakhrurradhi/files/13427235/Muhammad.Fakhrurradhi.CV.pdf)
 
 - Tableau Public [link](https://public.tableau.com/app/profile/muhammad.fakhrurradhi)
-- Project's Documentation [Notion](https://muhammadfakhrurradhi.notion.site/Posted-Projects-adeacad67f4b45fd87da78f2275d03b8?pvs=4)
+- My Portfolio [Portfolio](https://muhammadfakhrurradhi.notion.site/muhammadfakhrurradhi/Radhi-s-Portfolio-7ccc26d8773847ab8cbe7fda6ebf4dc2)
 - Power BI Dashboard [link](https://www.novypro.com/profile_projects/muhammadfakhrurradhi)
 
 
